@@ -1,0 +1,10 @@
+public static void main(String args[])
+{
+
+<<<<<<< HEAD
+ System.out.println("Bye World");
+=======
+ System.out.println("Hello World!");
+>>>>>>> 96679fef9099cf0c98cae2bccb92b450bbbf4d53
+
+}
